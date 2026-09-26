@@ -4,8 +4,8 @@ Unofficial RSS feeds generated from Metacritic's front pages — the same idea a
 
 | Feed | Source |
 |------|--------|
-| [games.xml](https://infinitty35.github.io/metacritic-rss/games.xml) 🎮 | https://www.metacritic.com/game/ |
-| [tv.xml](https://infinitty35.github.io/metacritic-rss/tv.xml) 📺 | https://www.metacritic.com/tv/ |
+| [games.xml](https://infinitty35.github.io/metacritic-rss-muse/games.xml) 🎮 | https://www.metacritic.com/game/ |
+| [tv.xml](https://infinitty35.github.io/metacritic-rss-muse/tv.xml) 📺 | https://www.metacritic.com/tv/ |
 
 Paste either URL into any RSS reader (Feedly, Inoreader, NetNewsWire, etc.) to subscribe.
 
